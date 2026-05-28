@@ -1,1 +1,1 @@
-discount= 0.10
+discount  = 0.30
